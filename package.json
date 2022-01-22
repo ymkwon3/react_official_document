@@ -1,7 +1,7 @@
 {
   "name": "6668a1f6986742109c00a581ce704605-f6c882b6ae18bde42dcf6fdb751aae93495a2275",
   "version": "1.0.0",
-  "description": "",
+  "description": "리액트 공식 문서 학습입니다.",
   "main": "like_button.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +12,13 @@
   "dependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-react-app": "^3.1.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymkwon3/react_official_document.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ymkwon3/react_official_document/issues"
+  },
+  "homepage": "https://github.com/ymkwon3/react_official_document#readme"
 }
